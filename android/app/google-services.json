@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "522886957775",
+    "project_id": "agriguruu",
+    "storage_bucket": "agriguruu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522886957775:android:bc653d349b3487e598c5ba",
+        "android_client_info": {
+          "package_name": "com.example.agriguruu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC1hn-X-5lkeoTIoScVKY3Tu2-z-KJJ5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522886957775:android:a5ef0fd56145893c98c5ba",
+        "android_client_info": {
+          "package_name": "com.example.farmpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC1hn-X-5lkeoTIoScVKY3Tu2-z-KJJ5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
